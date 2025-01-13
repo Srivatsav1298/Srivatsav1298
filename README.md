@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hello, I'm Vatsav!
 
-<!--
-**Srivatsav1298/Srivatsav1298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 👨‍💻 Software Engineer with passion for solving complex problems, learning new technologies, and contributing to impactful projects.
+- 🌱 Currently learning about Data Science and exploring data-based Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Fun Facts
+
+- Love developing data-driven and UI projects.
+- Avid learner and constantly experimenting with latest technologies.
+- Outside of coding, I enjoy playing cricket and collecting factual informations.
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srivatsav1298&show_icons=true&theme=dark)
+
+---
+
+## 💬 Let's Connect!
+
+Feel free to open issues or contribute to my projects. I'm always happy to discuss ideas, collaborate, or help out with technical problems. Let's build something amazing together! 🚀
