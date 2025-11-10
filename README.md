@@ -1,6 +1,5 @@
 ### 👋 Hello, I'm Vatsav!
 
-## ⚡ Fun Facts
 - 🧑‍💻 Enjoy building data-driven applications and crafting interactive UI projects that deliver a seamless user experience.
 - 📚 Avid learner, constantly experimenting with the latest tech trends to stay ahead of the curve.
 - 🏏 Outside coding, you can find me on the cricket field or diving into fascinating facts across various domains.
@@ -20,7 +19,3 @@ Here are the tools and technologies I work with:
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srivatsav1298&show_icons=true&theme=radical)
