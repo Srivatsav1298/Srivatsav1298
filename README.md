@@ -121,7 +121,7 @@ Clean, fast portfolio site highlighting technical projects and professional jour
 
 ## 💬 Let's Connect
 
-📧 **Email:** [srivatsav1298@outlook.com](mailto:srivatsav1298@outlook.com)  
+📧 **Email:** [srivatsav1298@outlook.com](mailto:srivatsav1298@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/srivatsav](https://linkedin.com/in/srivatsav)  
 🌐 **Portfolio:** [vatsav.kamkan.vip](https://vatsav.kamkan.vip)  
 📍 **Location:** Oslo, Norway
