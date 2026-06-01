@@ -1,8 +1,8 @@
 # Hey there 👋 I'm Vatsav
 
-**Data Engineer | Python | Backend Systems | Oslo-based Master's Student**
+**AI Engineer | Python | Backend Systems |**
 
-Building production-grade data pipelines and AI-powered backend systems. Currently exploring agentic AI, distributed systems, and data platform architecture at scale.
+Building production-grade AI-powered backend systems. Currently exploring agentic AI, distributed systems, and data platform architecture at scale.
 
 ---
 
