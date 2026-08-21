@@ -2,145 +2,176 @@
 
 ### AI Engineer focused on production AI agents, integrations, and reliable AI systems.
 
-I build **AI-powered systems that connect LLMs with tools, APIs, data, and real-world workflows** — from rapid prototypes to production-ready services.
+I build software that brings **AI into real-world workflows** — connecting models with APIs, tools, business logic, and existing systems to automate complex tasks and support better decisions.
 
-My engineering background spans **AI, backend systems, data engineering, and cloud infrastructure**, with a focus on turning AI capabilities into software that is useful, observable, and reliable.
+My engineering background spans **AI, backend development, machine learning, and cloud infrastructure**, with a focus on taking ideas from early prototypes to well-structured, tested, and deployable systems.
 
-> **I build AI systems that don't just generate responses — they reason, use tools, interact with systems, and get things done.**
+> **I’m interested in the engineering behind useful AI and building systems that work reliably in the real world.**
 
 ---
 
 ## 🤖 What I'm Building
 
-### 🧠 AI Agents
+### AI Agents & Automation
 
-Building agentic systems capable of executing multi-step workflows through reasoning, tool use, and external integrations.
+Building systems that can handle multi-step tasks, work with external tools, retrieve information, and execute structured workflows.
 
 **Focus:**
 
-`LLM Agents` · `Tool Calling` · `ReAct` · `RAG` · `Structured Outputs` · `Agent Workflows`
+`AI Agents` · `Tool Calling` · `Workflow Automation` · `RAG` · `Structured Outputs` · `Task Orchestration`
 
 ### 🔌 AI Integrations
 
-Connecting AI systems to the tools and data they need to solve real problems.
+Connecting AI systems with the software and services they need to perform useful work.
 
 **Working with:**
 
-`REST APIs` · `Databases` · `External Services` · `Data Pipelines` · `Business Workflows`
+`REST APIs` · `Databases` · `External Services` · `Backend Services` · `Business Workflows`
 
 ### 🛡️ Reliable AI Systems
 
-Exploring the engineering required to move AI applications beyond prototypes.
+Interested in the engineering practices required to move AI applications beyond prototypes and into dependable software.
 
 **Focus:**
 
-`Guardrails` · `Validation` · `Retries` · `Timeouts` · `State Management` · `Human-in-the-Loop` · `Approvals`
+`Validation` · `Guardrails` · `Retries` · `Timeouts` · `State Management` · `Approvals` · `Error Handling`
 
-### 📊 AI Evaluation & Observability
+### 📊 Evaluation & Observability
 
-Building AI systems that can be measured, debugged, and continuously improved.
+Building AI systems that can be measured, understood, debugged, and continuously improved.
 
 **Focus:**
 
-`Evaluation` · `Tracing` · `Metrics` · `Latency` · `Token Usage` · `Failure Analysis` · `Monitoring`
+`Evaluation` · `Tracing` · `Metrics` · `Latency` · `Cost` · `Failure Analysis` · `Monitoring`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
+
+### ⚖️ [Regelverk Copilot](https://github.com/Srivatsav1298/Regelverk-Copilot)
+
+**Production-oriented AI system for Norwegian employment-law decision support.**
+
+Regelverk Copilot helps users work through employment-related questions using retrieved legal sources, structured workflows, verified citations, and explicit safety checks.
+
+The system is designed around **grounded answers and reliable execution**, rather than treating AI generation as the entire application.
+
+🔗 **[Live Demo](https://regelverk-copilot.onrender.com)**
+
+**Engineering focus:**
+
+- Retrieval-augmented generation
+- Grounded responses and source verification
+- AI tool orchestration
+- Structured model outputs
+- Cross-lingual retrieval
+- Evaluation-driven development
+- Citation verification
+- Deterministic safety checks
+- Graceful model failure
+- Rate limiting and input validation
+- Response caching
+- Production monitoring
+- Docker deployment
+
+**Key results:**
+
+- `15/15` in-scope evaluation questions passed when the model was available
+- `20-question` evaluation suite covering in-scope, rephrased, compound, and out-of-scope questions
+- Citations verified against retrieved source text
+- Graceful degradation during provider failures
+- Production protections for shared infrastructure
+
+**Stack:**
+
+`Python` · `FastAPI` · `PostgreSQL` · `pgvector` · `Cohere` · `Gemma` · `OpenRouter` · `Docker` · `Render`
+
+---
 
 ### 🤖 [financial-ai-agent](https://github.com/Srivatsav1298/financial-ai-agent)
 
-**Agentic financial intelligence system for multi-step research and analysis.**
+**AI system for multi-step financial research and analysis.**
 
-An AI agent that combines LLM reasoning, tool calling, and real-time APIs to orchestrate multi-step financial analysis workflows.
+A Python-based system that combines model capabilities with financial APIs and structured tools to automate parts of the research and analysis process.
 
-**What it demonstrates:**
+**Engineering focus:**
 
-- Agent orchestration
-- LLM-powered reasoning
+- Multi-step task orchestration
 - Tool and API integration
-- Multi-step workflows
 - Structured outputs
+- External data access
 - Python backend architecture
+- Reliable workflow execution
 
-**Stack:** `Python` · `LangChain` · `FastAPI` · `LLMs` · `REST APIs`
+**Stack:**
 
----
-
-### ⚡ [energy-demand-forecast](https://github.com/Srivatsav1298/energy-demand-forecast)
-
-**End-to-end ML platform for energy demand forecasting.**
-
-A production-oriented ML pipeline combining data processing, predictive modeling, model serving, and cloud infrastructure.
-
-**What it demonstrates:**
-
-- Data pipeline engineering
-- Distributed processing
-- ML experimentation
-- Model serving
-- API development
-- Cloud deployment
-
-**Stack:** `Python` · `PySpark` · `XGBoost` · `LSTM` · `FastAPI` · `AWS` · `Docker`
+`Python` · `LangChain` · `FastAPI` · `LLMs` · `REST APIs`
 
 ---
 
 ### 📄 [resume-analyzer-ai](https://github.com/Srivatsav1298/resume-analyzer-ai)
 
-**AI-powered application for resume analysis and structured skill extraction.**
+**Application for automated resume analysis and structured information extraction.**
 
-Transforms unstructured resume documents into structured information using NLP and a Python backend.
+Processes unstructured resume content and extracts relevant information using NLP techniques through a Python backend and web interface.
 
-**What it demonstrates:**
+**Engineering focus:**
 
-- NLP
+- Natural language processing
 - Information extraction
 - AI application development
-- Backend API design
-- End-to-end product development
+- Backend API development
+- Structured data extraction
+- End-to-end application development
 
-**Stack:** `Python` · `NLP` · `FastAPI` · `JavaScript`
+**Stack:**
+
+`Python` · `NLP` · `FastAPI` · `JavaScript`
 
 ---
 
-### 🌌 [astronomical-classifier](https://github.com/Srivatsav1298/astronomical-classifier)
+### ⚡ [energy-demand-forecast](https://github.com/Srivatsav1298/energy-demand-forecast)
 
-**Deep learning system for semantic segmentation of astronomical imagery.**
+**Machine learning platform for energy demand forecasting.**
 
-Explores CNN architectures, transfer learning, attention mechanisms, and accuracy/performance trade-offs.
+A complete ML system covering feature engineering, predictive modeling, model serving, API development, and cloud deployment.
 
-**What it demonstrates:**
+**Engineering focus:**
 
-- Deep learning
-- Computer vision
+- Machine learning workflows
+- Predictive modeling
 - Model experimentation
-- Architecture optimization
-- Inference performance
+- Model serving
+- API development
+- Cloud deployment
 
-**Stack:** `Python` · `TensorFlow` · `Keras` · `Computer Vision`
+**Stack:**
+
+`Python` · `XGBoost` · `LSTM` · `FastAPI` · `AWS` · `Docker`
 
 ---
 
 ### 🏗️ [price-aggregator-platform](https://github.com/Srivatsav1298/price-aggregator-platform)
 
-**Real-time data aggregation and API platform.**
+**Backend platform for real-time product price aggregation.**
 
-A backend and data pipeline that aggregates product information from multiple sources and exposes the resulting data through an API and visualization layer.
+A Python backend that collects information from multiple sources, processes the results, and exposes them through an API and visualization layer.
 
-**What it demonstrates:**
+**Engineering focus:**
 
 - API design
-- Data pipelines
-- PostgreSQL
 - Backend architecture
-- Data visualization
+- Database design
+- External service integration
+- Data processing
 
-**Stack:** `Python` · `FastAPI` · `PostgreSQL` · `Plotly`
+**Stack:**
+
+`Python` · `FastAPI` · `PostgreSQL` · `Plotly`
 
 ---
 
-## 🛠️ Engineering Stack
+## 🛠️ Technical Stack
 
 ### 🤖 AI & Machine Learning
 
@@ -148,14 +179,14 @@ A backend and data pipeline that aggregates product information from multiple so
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**LLMs · AI Agents · RAG · Tool Calling · ReAct · NLP · Deep Learning · Machine Learning**
+`AI Agents` · `LLMs` · `RAG` · `Tool Calling` · `Machine Learning` · `Deep Learning` · `NLP` · `Model Evaluation`
 
 ### ⚙️ Backend & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Python · FastAPI · REST APIs · Async Programming · PostgreSQL · Microservices**
+`Python` · `FastAPI` · `REST APIs` · `Async Programming` · `PostgreSQL` · `Microservices`
 
 ### ☁️ Cloud & Infrastructure
 
@@ -163,31 +194,27 @@ A backend and data pipeline that aggregates product information from multiple so
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**AWS · Docker · CI/CD · GitHub Actions · Linux · Git**
+`AWS` · `Docker` · `CI/CD` · `GitHub Actions` · `Linux` · `Git`
 
 ---
 
-## 🧠 How I Think About AI Engineering
+## 🧠 Engineering Approach
 
-I care about the engineering layer between an AI prototype and a system people can actually depend on.
+I’m interested in the full lifecycle of an AI system — from understanding the problem to building, deploying, and improving the solution.
 
 ```text
-Problem
-   ↓
-Prototype
-   ↓
-Agent / Model
-   ↓
-Tools + APIs + Data
-   ↓
-Validation & Guardrails
-   ↓
-Reliable Execution
-   ↓
-Evaluation
-   ↓
-Observability
-   ↓
-Deployment
-   ↓
-Measure → Improve → Repeat
+Understand the problem
+        ↓
+Design the workflow
+        ↓
+Build the core system
+        ↓
+Connect models, tools & APIs
+        ↓
+Handle failures & edge cases
+        ↓
+Test and evaluate
+        ↓
+Deploy
+        ↓
+Observe and improve
