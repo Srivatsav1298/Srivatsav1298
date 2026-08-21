@@ -1,139 +1,193 @@
-# 👋 Srivatsav Saravanan
+# 👋 Hi, I'm Srivatsav Saravanan
 
-**Data Engineer | Python Backend | ML Systems | Based in Oslo 🇳🇴**
+### AI Engineer focused on production AI agents, integrations, and reliable AI systems.
 
-Building production-grade data pipelines, agentic AI systems, and scalable backend infrastructure. Master's student in Data Science, passionate about system design and real-world impact.
+I build **AI-powered systems that connect LLMs with tools, APIs, data, and real-world workflows** — from rapid prototypes to production-ready services.
 
----
+My engineering background spans **AI, backend systems, data engineering, and cloud infrastructure**, with a focus on turning AI capabilities into software that is useful, observable, and reliable.
 
-## 🎯 What I'm Building
-
-- **Agentic AI Systems** — ReAct-based autonomous agents orchestrating real-time data and APIs
-- **Data Platforms** — Scalable ETL pipelines, predictive analytics, energy forecasting at scale
-- **Backend Infrastructure** — Async Python APIs (FastAPI), cloud-native deployments, microservices
-
-*Focused on solving real problems with measurable business impact.*
+> **I build AI systems that don't just generate responses — they reason, use tools, interact with systems, and get things done.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🤖 What I'm Building
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### 🧠 AI Agents
 
-**Data & ML**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![PySpark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+Building agentic systems capable of executing multi-step workflows through reasoning, tool use, and external integrations.
+
+**Focus:**
+
+`LLM Agents` · `Tool Calling` · `ReAct` · `RAG` · `Structured Outputs` · `Agent Workflows`
+
+### 🔌 AI Integrations
+
+Connecting AI systems to the tools and data they need to solve real problems.
+
+**Working with:**
+
+`REST APIs` · `Databases` · `External Services` · `Data Pipelines` · `Business Workflows`
+
+### 🛡️ Reliable AI Systems
+
+Exploring the engineering required to move AI applications beyond prototypes.
+
+**Focus:**
+
+`Guardrails` · `Validation` · `Retries` · `Timeouts` · `State Management` · `Human-in-the-Loop` · `Approvals`
+
+### 📊 AI Evaluation & Observability
+
+Building AI systems that can be measured, debugged, and continuously improved.
+
+**Focus:**
+
+`Evaluation` · `Tracing` · `Metrics` · `Latency` · `Token Usage` · `Failure Analysis` · `Monitoring`
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [financial-ai-agent](https://github.com/Srivatsav1298/financial-ai-agent)
+
+**Agentic financial intelligence system for multi-step research and analysis.**
+
+An AI agent that combines LLM reasoning, tool calling, and real-time APIs to orchestrate multi-step financial analysis workflows.
+
+**What it demonstrates:**
+
+- Agent orchestration
+- LLM-powered reasoning
+- Tool and API integration
+- Multi-step workflows
+- Structured outputs
+- Python backend architecture
+
+**Stack:** `Python` · `LangChain` · `FastAPI` · `LLMs` · `REST APIs`
+
+---
+
+### ⚡ [energy-demand-forecast](https://github.com/Srivatsav1298/energy-demand-forecast)
+
+**End-to-end ML platform for energy demand forecasting.**
+
+A production-oriented ML pipeline combining data processing, predictive modeling, model serving, and cloud infrastructure.
+
+**What it demonstrates:**
+
+- Data pipeline engineering
+- Distributed processing
+- ML experimentation
+- Model serving
+- API development
+- Cloud deployment
+
+**Stack:** `Python` · `PySpark` · `XGBoost` · `LSTM` · `FastAPI` · `AWS` · `Docker`
+
+---
+
+### 📄 [resume-analyzer-ai](https://github.com/Srivatsav1298/resume-analyzer-ai)
+
+**AI-powered application for resume analysis and structured skill extraction.**
+
+Transforms unstructured resume documents into structured information using NLP and a Python backend.
+
+**What it demonstrates:**
+
+- NLP
+- Information extraction
+- AI application development
+- Backend API design
+- End-to-end product development
+
+**Stack:** `Python` · `NLP` · `FastAPI` · `JavaScript`
+
+---
+
+### 🌌 [astronomical-classifier](https://github.com/Srivatsav1298/astronomical-classifier)
+
+**Deep learning system for semantic segmentation of astronomical imagery.**
+
+Explores CNN architectures, transfer learning, attention mechanisms, and accuracy/performance trade-offs.
+
+**What it demonstrates:**
+
+- Deep learning
+- Computer vision
+- Model experimentation
+- Architecture optimization
+- Inference performance
+
+**Stack:** `Python` · `TensorFlow` · `Keras` · `Computer Vision`
+
+---
+
+### 🏗️ [price-aggregator-platform](https://github.com/Srivatsav1298/price-aggregator-platform)
+
+**Real-time data aggregation and API platform.**
+
+A backend and data pipeline that aggregates product information from multiple sources and exposes the resulting data through an API and visualization layer.
+
+**What it demonstrates:**
+
+- API design
+- Data pipelines
+- PostgreSQL
+- Backend architecture
+- Data visualization
+
+**Stack:** `Python` · `FastAPI` · `PostgreSQL` · `Plotly`
+
+---
+
+## 🛠️ Engineering Stack
+
+### 🤖 AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+**LLMs · AI Agents · RAG · Tool Calling · ReAct · NLP · Deep Learning · Machine Learning**
 
----
+### ⚙️ Backend & APIs
 
-## 📌 Featured Projects
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### [financial-ai-agent](https://github.com/Srivatsav1298/financial-ai-agent)
-**Autonomous Financial Intelligence with ReAct Pattern**
+**Python · FastAPI · REST APIs · Async Programming · PostgreSQL · Microservices**
 
-Agentic system using ReAct framework + function calling for real-time market analysis. Reduced decision latency by 70% vs manual research through autonomous reasoning.
+### ☁️ Cloud & Infrastructure
 
-**Stack:** Python • LangChain • FastAPI • Real-time APIs • Production-ready  
-**Highlights:** Autonomous reasoning, real-time data orchestration, API integration
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
-
-### [energy-demand-forecast](https://github.com/Srivatsav1298/energy-demand-forecast)
-**ML-Powered Energy Consumption Forecasting Platform**
-
-Ensemble ML pipeline (XGBoost + LSTM) predicting energy demand with 92% accuracy. Deployed across 3 regions handling 10,000+ data points/day at <2s latency. Estimated $50K annual cost savings through optimized grid management.
-
-**Business Impact:**  
-✅ 92% accuracy (35% improvement vs baseline)  
-✅ <2 second latency (sub-second P99)  
-✅ 10K+ daily records processed  
-✅ 99.5% uptime SLA
-
-**Stack:** Python • Pandas • PySpark • XGBoost • LSTM • FastAPI • AWS S3/Lambda • Docker
+**AWS · Docker · CI/CD · GitHub Actions · Linux · Git**
 
 ---
 
-### [astronomical-classifier](https://github.com/Srivatsav1298/astronomical-classifier)
-**Deep Learning: U-Net Semantic Segmentation**
+## 🧠 How I Think About AI Engineering
 
-CNN architecture exploration for astronomical image classification. Achieved 95% mean IoU on segmentation task. Explored attention mechanisms, transfer learning, and batch normalization effects.
+I care about the engineering layer between an AI prototype and a system people can actually depend on.
 
-**Stack:** Python • TensorFlow • Keras • Computer Vision • Deep Learning  
-**Key Learning:** Optimizing model depth vs accuracy trade-offs for inference efficiency
-
----
-
-### [resume-analyzer-ai](https://github.com/Srivatsav1298/resume-analyzer-ai)
-**AI-Powered Resume Parsing & Skill Extraction**
-
-Full-stack application combining NLP for resume parsing with interactive web interface. Automated skill extraction using TF-IDF + named entity recognition.
-
-**Stack:** Python • JavaScript • NLP • FastAPI • Web UI
-
----
-
-### [price-aggregator-platform](https://github.com/Srivatsav1298/price-aggregator-platform)
-**Real-time Price Comparison Platform**
-
-Aggregates product pricing from multiple retailers. Built with data pipeline + API layer + visualization dashboard.
-
-**Stack:** Python • FastAPI • PostgreSQL • Plotly
-
----
-
-### [portfolio-site](https://github.com/Srivatsav1298/portfolio-site)
-**Professional Portfolio & Project Showcase**
-
-Clean, fast portfolio site highlighting technical projects and professional journey.
-
-**Stack:** HTML • CSS • Tailwind CSS
-
----
-
-## 🔄 Currently Learning
-
-- **Production AI Systems** — MLOps, model serving, inference optimization, A/B testing
-- **Distributed Computing** — Apache Spark, data lake architecture, warehouse optimization
-- **System Design** — Scalability patterns, microservices, event-driven architecture
-
----
-
-## 📊 Quick Overview
-
-- 🎓 **Master's in Data Science** — Oslo, Norway
-- 🐍 **3+ years** coding in Python
-- 📚 **Focus areas:** Data Engineering, AI systems, Backend architecture
-- 🌍 **Languages:** English (Fluent) | Norwegian (A2–B1)
-- 📍 **Location:** Oslo | **Open to:** EU remote roles, Nordic tech companies
-
----
-
-## 💬 Let's Connect
-
-📧 **Email:** [srivatsavs98@gmail.com](mailto:srivatsavs98@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/srivatsav](https://www.linkedin.com/in/srivatsav-s/?skipRedirect=true)  
-🌐 **Portfolio:** [vatsav.kamkan.vip](https://vatsav.kamkan.vip)  
-📍 **Location:** Oslo, Norway
-
----
-
-## 🌟 Open to Opportunities
-
-- 💼 **Roles:** Python Developer, Data Engineer, Backend Engineer, AI Systems Engineer
-- 🎯 **Companies:** Early-stage startups, scale-ups, FAANG
-- 🌍 **Locations:** Oslo, Scandinavia, EU (Remote preferred)
-
----
-
-> *"The best code is production code. The best projects solve real problems."*
+```text
+Problem
+   ↓
+Prototype
+   ↓
+Agent / Model
+   ↓
+Tools + APIs + Data
+   ↓
+Validation & Guardrails
+   ↓
+Reliable Execution
+   ↓
+Evaluation
+   ↓
+Observability
+   ↓
+Deployment
+   ↓
+Measure → Improve → Repeat
